@@ -1,3 +1,22 @@
+body {
+    font-family: 'Quicksand', sans-serif;
+    color: white;
+    background: black;
+
+}
+
+h1 {
+	font-family: 'Abril Fatface', cursive;
+	color: white;
+	background: black;
+}
+
+h2{
+	font-family: 'Abril Fatface', cursive;
+	color: white;
+	background: black;
+
+}
 .cbp-so-scroller {
 	margin-top: 3em;
 	overflow: hidden;
@@ -131,4 +150,3 @@
 		max-width: 100%;
 	}
 }
-
